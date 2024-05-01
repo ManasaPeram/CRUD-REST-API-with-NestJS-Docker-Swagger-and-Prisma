@@ -106,3 +106,9 @@ sudo docker-compose down
 
 
 refer link: https://www.freecodecamp.org/news/build-a-crud-rest-api-with-nestjs-docker-swagger-prisma/
+
+
+
+
+//SEE OUT PUT VIEW
+https://www.loom.com/share/5e84e58613fb4cf2b307ecd84e490399?sid=95c61030-33cf-4f59-a2ca-cf7f02d8127f
